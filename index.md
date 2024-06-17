@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
@@ -129,7 +129,7 @@ order: 0
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:#">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
   </div>
 </section>
 
@@ -201,4 +201,4 @@ order: 0
 
 <section class="footer">
     Candidature de la X circonscription de Y.
-</section>
+</section> 
